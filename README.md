@@ -1,7 +1,7 @@
 # Research Presentation
 --------
 
-This is a Presentation for my Research Paper on Image Classification using Deep Convolutional Neural Network
+This is a Presentation for my Research Paper on Image Classification using Deep Convolutional Neural Network.
 
 ## Status
 --------
