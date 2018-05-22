@@ -18,7 +18,7 @@ To begin using this project, follow the following options to get started:
 ## Usage
 -------
 
-- Run this Prototype on Browser
+- Run this Prototype on Your Browser
 
 ## Contribute
 ----------
